@@ -26,3 +26,5 @@ Como Começar
     5. Envie um pull request para revisão.
 
 
+# -------------- alterações com o fork -------
+estas sao minhas alterações 
